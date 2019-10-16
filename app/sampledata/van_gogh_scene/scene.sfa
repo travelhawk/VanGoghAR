@@ -1,0 +1,1129 @@
+{
+  materials: [
+    {
+      name: '13___Default',
+      parameters: [
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColor: '13___Default_baseColor',
+        },
+        {
+          diffuseColorFactor: null,
+        },
+        {
+          diffuseColor: null,
+        },
+        {
+          normal: null,
+        },
+        {
+          metallicFactor: 0,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          specularFactor: null,
+        },
+        {
+          glossinessFactor: null,
+        },
+        {
+          specularGlossiness: null,
+        },
+        {
+          specularGlossinessCalculation: null,
+        },
+        {
+          metallicRoughness: null,
+        },
+        {
+          occlusion: null,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          emissive: '13___Default_emissive',
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/gltf_material.sfm',
+    },
+    {
+      name: '13___Defaultdddddd',
+      parameters: [
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColor: '13___Defaultdddddd_baseColor',
+        },
+        {
+          diffuseColorFactor: null,
+        },
+        {
+          diffuseColor: null,
+        },
+        {
+          normal: null,
+        },
+        {
+          metallicFactor: 0,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          specularFactor: null,
+        },
+        {
+          glossinessFactor: null,
+        },
+        {
+          specularGlossiness: null,
+        },
+        {
+          specularGlossinessCalculation: null,
+        },
+        {
+          metallicRoughness: null,
+        },
+        {
+          occlusion: null,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          emissive: '13___Defaultdddddd_emissive',
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/gltf_material.sfm',
+    },
+    {
+      name: '13___Defaultdddddddddddddd',
+      parameters: [
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColor: '13___Defaultdddddddddddddd_baseColor',
+        },
+        {
+          diffuseColorFactor: null,
+        },
+        {
+          diffuseColor: null,
+        },
+        {
+          normal: null,
+        },
+        {
+          metallicFactor: 0,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          specularFactor: null,
+        },
+        {
+          glossinessFactor: null,
+        },
+        {
+          specularGlossiness: null,
+        },
+        {
+          specularGlossinessCalculation: null,
+        },
+        {
+          metallicRoughness: null,
+        },
+        {
+          occlusion: null,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          emissive: '13___Defaultdddddddddddddd_emissive',
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/gltf_material.sfm',
+    },
+    {
+      name: '13___Defaultddddddddddddddddddd',
+      parameters: [
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColor: '13___Defaultddddddddddddddddddd_baseColor',
+        },
+        {
+          diffuseColorFactor: null,
+        },
+        {
+          diffuseColor: null,
+        },
+        {
+          normal: null,
+        },
+        {
+          metallicFactor: 0,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          specularFactor: null,
+        },
+        {
+          glossinessFactor: null,
+        },
+        {
+          specularGlossiness: null,
+        },
+        {
+          specularGlossinessCalculation: null,
+        },
+        {
+          metallicRoughness: null,
+        },
+        {
+          occlusion: null,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          emissive: '13___Defaultddddddddddddddddddd_emissive',
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/gltf_material.sfm',
+    },
+    {
+      name: '13___Defaultdddddddddddddddddddd',
+      parameters: [
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColor: '13___Defaultdddddddddddddddddddd_baseColor',
+        },
+        {
+          diffuseColorFactor: null,
+        },
+        {
+          diffuseColor: null,
+        },
+        {
+          normal: null,
+        },
+        {
+          metallicFactor: 0,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          specularFactor: null,
+        },
+        {
+          glossinessFactor: null,
+        },
+        {
+          specularGlossiness: null,
+        },
+        {
+          specularGlossinessCalculation: null,
+        },
+        {
+          metallicRoughness: null,
+        },
+        {
+          occlusion: null,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          emissive: '13___Defaultdddddddddddddddddddd_emissive',
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/gltf_material.sfm',
+    },
+    {
+      name: '13___Defaultd',
+      parameters: [
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColor: '13___Defaultd_baseColor',
+        },
+        {
+          diffuseColorFactor: null,
+        },
+        {
+          diffuseColor: null,
+        },
+        {
+          normal: null,
+        },
+        {
+          metallicFactor: 0,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          specularFactor: null,
+        },
+        {
+          glossinessFactor: null,
+        },
+        {
+          specularGlossiness: null,
+        },
+        {
+          specularGlossinessCalculation: null,
+        },
+        {
+          metallicRoughness: null,
+        },
+        {
+          occlusion: null,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          emissive: '13___Defaultd_emissive',
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/gltf_material.sfm',
+    },
+    {
+      name: '13___Defaultddd',
+      parameters: [
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColor: '13___Defaultddd_baseColor',
+        },
+        {
+          diffuseColorFactor: null,
+        },
+        {
+          diffuseColor: null,
+        },
+        {
+          normal: null,
+        },
+        {
+          metallicFactor: 0,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          specularFactor: null,
+        },
+        {
+          glossinessFactor: null,
+        },
+        {
+          specularGlossiness: null,
+        },
+        {
+          specularGlossinessCalculation: null,
+        },
+        {
+          metallicRoughness: null,
+        },
+        {
+          occlusion: null,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          emissive: '13___Defaultddd_emissive',
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/gltf_material.sfm',
+    },
+    {
+      name: '13___Defaultddddd',
+      parameters: [
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColor: '13___Defaultddddd_baseColor',
+        },
+        {
+          diffuseColorFactor: null,
+        },
+        {
+          diffuseColor: null,
+        },
+        {
+          normal: null,
+        },
+        {
+          metallicFactor: 0,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          specularFactor: null,
+        },
+        {
+          glossinessFactor: null,
+        },
+        {
+          specularGlossiness: null,
+        },
+        {
+          specularGlossinessCalculation: null,
+        },
+        {
+          metallicRoughness: null,
+        },
+        {
+          occlusion: null,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          emissive: '13___Defaultddddd_emissive',
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/gltf_material.sfm',
+    },
+    {
+      name: '13___Defaultdddddddd',
+      parameters: [
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColor: '13___Defaultdddddddd_baseColor',
+        },
+        {
+          diffuseColorFactor: null,
+        },
+        {
+          diffuseColor: null,
+        },
+        {
+          normal: null,
+        },
+        {
+          metallicFactor: 0,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          specularFactor: null,
+        },
+        {
+          glossinessFactor: null,
+        },
+        {
+          specularGlossiness: null,
+        },
+        {
+          specularGlossinessCalculation: null,
+        },
+        {
+          metallicRoughness: null,
+        },
+        {
+          occlusion: null,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          emissive: '13___Defaultdddddddd_emissive',
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/gltf_material.sfm',
+    },
+    {
+      name: '13___Defaultddddddddd',
+      parameters: [
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColor: '13___Defaultddddddddd_baseColor',
+        },
+        {
+          diffuseColorFactor: null,
+        },
+        {
+          diffuseColor: null,
+        },
+        {
+          normal: null,
+        },
+        {
+          metallicFactor: 0,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          specularFactor: null,
+        },
+        {
+          glossinessFactor: null,
+        },
+        {
+          specularGlossiness: null,
+        },
+        {
+          specularGlossinessCalculation: null,
+        },
+        {
+          metallicRoughness: null,
+        },
+        {
+          occlusion: null,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          emissive: '13___Defaultddddddddd_emissive',
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/gltf_material.sfm',
+    },
+    {
+      name: '13___Defaultddddddddddd',
+      parameters: [
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColor: '13___Defaultddddddddddd_baseColor',
+        },
+        {
+          diffuseColorFactor: null,
+        },
+        {
+          diffuseColor: null,
+        },
+        {
+          normal: null,
+        },
+        {
+          metallicFactor: 0,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          specularFactor: null,
+        },
+        {
+          glossinessFactor: null,
+        },
+        {
+          specularGlossiness: null,
+        },
+        {
+          specularGlossinessCalculation: null,
+        },
+        {
+          metallicRoughness: null,
+        },
+        {
+          occlusion: null,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          emissive: '13___Defaultddddddddddd_emissive',
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/gltf_material.sfm',
+    },
+    {
+      name: '13___Defaultdddddddddddd',
+      parameters: [
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColor: '13___Defaultdddddddddddd_baseColor',
+        },
+        {
+          diffuseColorFactor: null,
+        },
+        {
+          diffuseColor: null,
+        },
+        {
+          normal: null,
+        },
+        {
+          metallicFactor: 0,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          specularFactor: null,
+        },
+        {
+          glossinessFactor: null,
+        },
+        {
+          specularGlossiness: null,
+        },
+        {
+          specularGlossinessCalculation: null,
+        },
+        {
+          metallicRoughness: null,
+        },
+        {
+          occlusion: null,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          emissive: '13___Defaultdddddddddddd_emissive',
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/gltf_material.sfm',
+    },
+    {
+      name: '13___Defaultddddddddddddd',
+      parameters: [
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColor: '13___Defaultddddddddddddd_baseColor',
+        },
+        {
+          diffuseColorFactor: null,
+        },
+        {
+          diffuseColor: null,
+        },
+        {
+          normal: null,
+        },
+        {
+          metallicFactor: 0,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          specularFactor: null,
+        },
+        {
+          glossinessFactor: null,
+        },
+        {
+          specularGlossiness: null,
+        },
+        {
+          specularGlossinessCalculation: null,
+        },
+        {
+          metallicRoughness: null,
+        },
+        {
+          occlusion: null,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          emissive: '13___Defaultddddddddddddd_emissive',
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/gltf_material.sfm',
+    },
+    {
+      name: '13___Defaultddddddddddddddd',
+      parameters: [
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColor: '13___Defaultddddddddddddddd_baseColor',
+        },
+        {
+          diffuseColorFactor: null,
+        },
+        {
+          diffuseColor: null,
+        },
+        {
+          normal: null,
+        },
+        {
+          metallicFactor: 0,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          specularFactor: null,
+        },
+        {
+          glossinessFactor: null,
+        },
+        {
+          specularGlossiness: null,
+        },
+        {
+          specularGlossinessCalculation: null,
+        },
+        {
+          metallicRoughness: null,
+        },
+        {
+          occlusion: null,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          emissive: '13___Defaultddddddddddddddd_emissive',
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/gltf_material.sfm',
+    },
+    {
+      name: '13___Defaultdddddddddddddddd',
+      parameters: [
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColor: '13___Defaultdddddddddddddddd_baseColor',
+        },
+        {
+          diffuseColorFactor: null,
+        },
+        {
+          diffuseColor: null,
+        },
+        {
+          normal: null,
+        },
+        {
+          metallicFactor: 0,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          specularFactor: null,
+        },
+        {
+          glossinessFactor: null,
+        },
+        {
+          specularGlossiness: null,
+        },
+        {
+          specularGlossinessCalculation: null,
+        },
+        {
+          metallicRoughness: null,
+        },
+        {
+          occlusion: null,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          emissive: '13___Defaultdddddddddddddddd_emissive',
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/gltf_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/van_gogh/scene.gltf',
+    name: 'scene',
+    recenter: 'root',
+    scale: 0.28281299999999998,
+  },
+  samplers: [
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultdddddddddddddddd_baseColor.jpeg',
+      name: '13___Defaultdddddddddddddddd_baseColor',
+      pipeline_name: 'textures/13___Defaultdddddddddddddddd_baseColor.jpeg',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultdddddddddddd_baseColor.jpeg',
+      name: '13___Defaultdddddddddddd_baseColor',
+      pipeline_name: 'textures/13___Defaultdddddddddddd_baseColor.jpeg',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultdddddddd_baseColor.jpeg',
+      name: '13___Defaultdddddddd_baseColor',
+      pipeline_name: 'textures/13___Defaultdddddddd_baseColor.jpeg',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Default_baseColor.jpeg',
+      name: '13___Default_baseColor',
+      pipeline_name: 'textures/13___Default_baseColor.jpeg',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultdddddd_baseColor.jpeg',
+      name: '13___Defaultdddddd_baseColor',
+      pipeline_name: 'textures/13___Defaultdddddd_baseColor.jpeg',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultdddddddddddddd_baseColor.jpeg',
+      name: '13___Defaultdddddddddddddd_baseColor',
+      pipeline_name: 'textures/13___Defaultdddddddddddddd_baseColor.jpeg',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultdddddddddddddddd_emissive.jpeg',
+      name: '13___Defaultdddddddddddddddd_emissive',
+      pipeline_name: 'textures/13___Defaultdddddddddddddddd_emissive.jpeg',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultdddddddddddd_emissive.jpeg',
+      name: '13___Defaultdddddddddddd_emissive',
+      pipeline_name: 'textures/13___Defaultdddddddddddd_emissive.jpeg',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultdddddddd_emissive.jpeg',
+      name: '13___Defaultdddddddd_emissive',
+      pipeline_name: 'textures/13___Defaultdddddddd_emissive.jpeg',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Default_emissive.jpeg',
+      name: '13___Default_emissive',
+      pipeline_name: 'textures/13___Default_emissive.jpeg',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultdddddd_emissive.jpeg',
+      name: '13___Defaultdddddd_emissive',
+      pipeline_name: 'textures/13___Defaultdddddd_emissive.jpeg',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultdddddddddddddd_emissive.jpeg',
+      name: '13___Defaultdddddddddddddd_emissive',
+      pipeline_name: 'textures/13___Defaultdddddddddddddd_emissive.jpeg',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultdddddddddddddddddddd_baseColor.png',
+      name: '13___Defaultdddddddddddddddddddd_baseColor',
+      pipeline_name: 'textures/13___Defaultdddddddddddddddddddd_baseColor.png',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultddddddddddddddddddd_baseColor.png',
+      name: '13___Defaultddddddddddddddddddd_baseColor',
+      pipeline_name: 'textures/13___Defaultddddddddddddddddddd_baseColor.png',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultddddddddddddddddddd_emissive.png',
+      name: '13___Defaultddddddddddddddddddd_emissive',
+      pipeline_name: 'textures/13___Defaultddddddddddddddddddd_emissive.png',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultdddddddddddddddddddd_emissive.png',
+      name: '13___Defaultdddddddddddddddddddd_emissive',
+      pipeline_name: 'textures/13___Defaultdddddddddddddddddddd_emissive.png',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultddddddddddddddd_baseColor.jpeg',
+      name: '13___Defaultddddddddddddddd_baseColor',
+      pipeline_name: 'textures/13___Defaultddddddddddddddd_baseColor.jpeg',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultddddddddddddd_baseColor.jpeg',
+      name: '13___Defaultddddddddddddd_baseColor',
+      pipeline_name: 'textures/13___Defaultddddddddddddd_baseColor.jpeg',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultddddddddddd_baseColor.jpeg',
+      name: '13___Defaultddddddddddd_baseColor',
+      pipeline_name: 'textures/13___Defaultddddddddddd_baseColor.jpeg',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultddddddddd_baseColor.jpeg',
+      name: '13___Defaultddddddddd_baseColor',
+      pipeline_name: 'textures/13___Defaultddddddddd_baseColor.jpeg',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultddddd_baseColor.jpeg',
+      name: '13___Defaultddddd_baseColor',
+      pipeline_name: 'textures/13___Defaultddddd_baseColor.jpeg',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultddd_baseColor.jpeg',
+      name: '13___Defaultddd_baseColor',
+      pipeline_name: 'textures/13___Defaultddd_baseColor.jpeg',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultd_baseColor.jpeg',
+      name: '13___Defaultd_baseColor',
+      pipeline_name: 'textures/13___Defaultd_baseColor.jpeg',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultddddddddddddddd_emissive.jpeg',
+      name: '13___Defaultddddddddddddddd_emissive',
+      pipeline_name: 'textures/13___Defaultddddddddddddddd_emissive.jpeg',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultddddddddddddd_emissive.jpeg',
+      name: '13___Defaultddddddddddddd_emissive',
+      pipeline_name: 'textures/13___Defaultddddddddddddd_emissive.jpeg',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultddddddddddd_emissive.jpeg',
+      name: '13___Defaultddddddddddd_emissive',
+      pipeline_name: 'textures/13___Defaultddddddddddd_emissive.jpeg',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultddddddddd_emissive.jpeg',
+      name: '13___Defaultddddddddd_emissive',
+      pipeline_name: 'textures/13___Defaultddddddddd_emissive.jpeg',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultddddd_emissive.jpeg',
+      name: '13___Defaultddddd_emissive',
+      pipeline_name: 'textures/13___Defaultddddd_emissive.jpeg',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultddd_emissive.jpeg',
+      name: '13___Defaultddd_emissive',
+      pipeline_name: 'textures/13___Defaultddd_emissive.jpeg',
+    },
+    {
+      file: 'sampledata/van_gogh\\textures\\13___Defaultd_emissive.jpeg',
+      name: '13___Defaultd_emissive',
+      pipeline_name: 'textures/13___Defaultd_emissive.jpeg',
+    },
+  ],
+  version: '0.54:2',
+}
